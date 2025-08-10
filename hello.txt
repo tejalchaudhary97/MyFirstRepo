@@ -6,5 +6,7 @@ Line from main branch
 
 Line from feature-1 branch
 
+This is a change in feature-2 branch.
+
 
 
